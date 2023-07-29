@@ -30,7 +30,7 @@ Simply open the `index.html` file to view the dashboard.
 
 ## Credits
 
-The design and icons are created by Keerthi[https://www.figma.com/@keerthiselvam]. 
+The design and icons are created by [Keerthi](https://www.figma.com/@keerthiselvam). 
 
 
 
