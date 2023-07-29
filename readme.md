@@ -17,7 +17,7 @@ This repository contains the code for a responsive dashboard design. The dashboa
 
 - HTML
 - Tailwind CSS
-- Google Fonts (Inter and Ubuntu)
+- Google Fonts (Inter)
 
 ## Installation
 
